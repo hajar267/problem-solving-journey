@@ -1,4 +1,4 @@
-# 🧠 Problem Solving Journey (Python)
+# 🧠 Problem Solving Journey 
 
 Hi, I'm Hajar! This repo tracks my daily progress as I work on developing my problem-solving skills and deepening my understanding of data structures and algorithms
 
