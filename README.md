@@ -9,7 +9,7 @@ Hi, I'm Hajar! This repo tracks my daily progress as I work on developing my pro
 
 ## 📊 Progress
 
-✅ Problems solved: 4  
-📅 Days consistent: 3  
+✅ Problems solved: 10  
+📅 Days consistent: 5  
 
 Check out my detailed [Progress Tracker](./progress_tracker.md)

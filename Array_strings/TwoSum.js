@@ -20,7 +20,7 @@ var twoSum = function(nums, target) {
 
 
 
-// optimize (Use a Map)
+// optimize (Use a Map) ()
 /*
 First time using the map (object) to solve problems!
 I used an object as a map to store numbers and their corresponding indices.
